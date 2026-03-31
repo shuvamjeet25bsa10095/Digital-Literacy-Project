@@ -4,7 +4,7 @@ Platforms Set Up
 
 1. GitHub
 2. LinkedIn
-3. Kaggle
+3. StackOverflow
 GitHub Profile README
 
 A special repository named after my username was created with the following content:
@@ -33,6 +33,6 @@ GitHub is the world's leading platform for version control and open-source colla
 
 LinkedIn is the professional social network used by recruiters, faculty, and industry professionals. I completed the Education section as a first step and intend to add internships, projects, and skills over the next four years. By the time I graduate, my LinkedIn profile will reflect my complete academic and professional journey.
 
-Kaggle is a data science and machine learning competition platform. Even though my primary focus is cloud computing, understanding data and ML is increasingly important in cloud infrastructure roles. I plan to attempt beginner datasets and competitions from my second year onward.
+Stack Overflow is a massive question-and-answer platform specifically for professional and enthusiast programmers. Founded in 2008, it serves as a collective library of detailed, human-verified answers to technical coding problems. 
 
 All three platforms were set up using my email, with no personal contact details, as instructed.
